@@ -62,4 +62,7 @@ target/
 .ipynb_checkpoints
 
 # Data folder
-data/*
+data/*.txt
+data/*.csv
+data/*.tsv
+data/*.json
