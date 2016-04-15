@@ -37,4 +37,5 @@ with open(sys.argv[2], 'w') as fout:
             line = clean(line, exclude)
             pos_neg = senti_classifier.polarity_scores([line])
             pol = polarity(arg_max(pos_neg))
-            writer.writerow([l_i, pol])
+            line_number = to_unicode(str(l_i))
+            writer.writerow([line_number, pol])

@@ -22,4 +22,4 @@ echo ""
 docker run --rm \
 	-v $INPUT:/input.txt \
 	-v $OUTPUT:/output.txt \
-	vadersentiment:latest
+	sentiment-wsd:latest
