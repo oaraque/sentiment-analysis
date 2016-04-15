@@ -1,0 +1,2 @@
+sentiment_classifier>=0.5
+nltk>=2
