@@ -1,0 +1,2 @@
+Negative	The cat sat on the mat.
+Neutral	Tho dog ate the cat but not the mat.
