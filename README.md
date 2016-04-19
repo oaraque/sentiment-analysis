@@ -7,3 +7,4 @@ The following are supported:
 * vaderSentiment (https://github.com/cjhutto/vaderSentiment)
 * Sentiment Classifier WSD (https://github.com/kevincobain2000/sentiment_classifier)
 * Vivekn (http://sentiment.vivekn.com/)
+* TextBlob (https://textblob.readthedocs.org)
