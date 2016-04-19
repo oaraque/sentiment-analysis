@@ -1,4 +1,5 @@
 FROM alpine:3.2
+MAINTAINER Oscar Araque
 
 ADD repositories /etc/apk/repositories
 RUN apk add --update python python-dev gfortran py-pip build-base py-numpy@testing

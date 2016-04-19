@@ -1,4 +1,5 @@
 FROM python:2.7-alpine
+MAINTAINER Oscar Araque
 
 RUN mkdir /app
 WORKDIR /app
