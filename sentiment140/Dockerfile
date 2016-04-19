@@ -1,7 +1,8 @@
-FROM ubuntu:latest
+FROM alpine:latest
 MAINTAINER Oscar Araque
 
-RUN apt-get update && apt-get install -y curl && apt-get clean && rm -rf /var/lib/apt/lists
+RUN apk add --update curl && \
+    rm -rf /var/cache/apk/*
 
 VOLUME /input.txt
 VOLUME /output.txt
