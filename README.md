@@ -8,3 +8,4 @@ The following are supported:
 * Sentiment Classifier WSD (https://github.com/kevincobain2000/sentiment_classifier)
 * Vivekn (http://sentiment.vivekn.com/)
 * TextBlob (https://textblob.readthedocs.org)
+* Pattern (http://www.clips.ua.ac.be/pattern)
