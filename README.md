@@ -9,3 +9,4 @@ The following are supported:
 * Vivekn (http://sentiment.vivekn.com/)
 * TextBlob (https://textblob.readthedocs.org)
 * Pattern (http://www.clips.ua.ac.be/pattern)
+* CoreNLP (http://stanfordnlp.github.io/CoreNLP)
